@@ -7,5 +7,5 @@ class Solution:
 # Test
 s = "rat"
 t = "car"
-answer = Solution().isAnagram(s, t)
-print(" s: ", s, "\n t: ", t, "\n answer: ", answer)
+result = Solution().isAnagram(s, t)
+print(" s: ", s, "\n t: ", t, "\n result: ", result)

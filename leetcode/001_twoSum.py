@@ -16,5 +16,5 @@ class Solution:
 # Test
 nums = [2, 7, 11, 15]
 target = 9
-answer = Solution().twoSum(nums, target)
-print(" nums: ", nums, "\n target: ", target, "\n answer: ", answer)
+result = Solution().twoSum(nums, target)
+print(" nums: ", nums, "\n target: ", target, "\n result: ", result)

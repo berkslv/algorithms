@@ -25,5 +25,5 @@ class Solution:
 # Test
 l1 = ListNode.from_list([1, 2, 4])
 l2 = ListNode.from_list([1, 3, 4])
-answer = Solution().mergeTwoLists(l1, l2)
-print(" l1: ", l1, "\n l2: ", l2, "\n answer: ", answer)
+result = Solution().mergeTwoLists(l1, l2)
+print(" l1: ", l1, "\n l2: ", l2, "\n result: ", result)

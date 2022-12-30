@@ -24,6 +24,6 @@ class Solution:
 
 # Test
 root = TreeNode.from_list([3, 9, 20, None, None, 15, 7])
-answer = Solution().levelOrder(root)
+result = Solution().levelOrder(root)
 root.print()
-print("answer: ", answer)
+print("result: ", result)

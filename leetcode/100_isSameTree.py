@@ -18,7 +18,7 @@ class Solution:
 # Test
 p = TreeNode(1, TreeNode(2), TreeNode(3))
 q = TreeNode(1, TreeNode(2), TreeNode(3))
-answer = Solution().isSameTree(p, q)
+result = Solution().isSameTree(p, q)
 p.print()
 q.print()
-print("answer: ",answer)
+print("result: ",result)

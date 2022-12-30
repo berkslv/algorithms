@@ -38,5 +38,5 @@ board = [["5","3",".",".","7",".",".",".","."]
 ,[".","6",".",".",".",".","2","8","."]
 ,[".",".",".","4","1","9",".",".","5"]
 ,[".",".",".",".","8",".",".","7","9"]]
-answer = Solution().isValidSudoku(board)
-print(" board: ", board, "\n answer: ", answer)
+result = Solution().isValidSudoku(board)
+print(" board: ", board, "\n result: ", result)

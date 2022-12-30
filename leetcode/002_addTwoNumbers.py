@@ -24,5 +24,5 @@ class Solution:
 # Test
 l1 = ListNode.from_list([2, 4, 3])
 l2 = ListNode.from_list([5, 6, 4])
-answer = Solution().addTwoNumbers(l1, l2)
-print(" l1: ", l1, "\n l2: ", l2, "\n answer: ", answer)
+result = Solution().addTwoNumbers(l1, l2)
+print(" l1: ", l1, "\n l2: ", l2, "\n result: ", result)

@@ -18,6 +18,6 @@ class Solution:
 
 # Test
 root = TreeNode.from_list([1, None, 2, 3])
-answer = Solution().preorderTraversal(root)
+result = Solution().preorderTraversal(root)
 root.print()
-print("answer: ", answer)
+print("result: ", result)

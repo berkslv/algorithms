@@ -17,5 +17,5 @@ class Solution:
 
 # Test
 head = ListNode.from_list([1, 2, 3, 4, 5])
-answer = Solution().reverseList(head)
-print(" head: ", head, "\n answer: ", answer)
+result = Solution().reverseList(head)
+print(" head: ", head, "\n result: ", result)

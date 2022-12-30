@@ -22,6 +22,6 @@ class Solution:
 print(float('inf'))
 root = TreeNode.from_list([5, 1, 4, None, None, 3, 6])
 root = TreeNode.from_list([2, 1, 3])
-answer = Solution().isValidBST(root)
+result = Solution().isValidBST(root)
 root.print()
-print("answer: ", answer)
+print("result: ", result)

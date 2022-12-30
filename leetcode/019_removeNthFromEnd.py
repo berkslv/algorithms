@@ -20,5 +20,5 @@ class Solution:
 # Test
 l1 = ListNode.from_list([1, 2, 3, 4, 5])
 n = 2
-answer = Solution().removeNthFromEnd(l1, n)
-print(" l1: ", l1, "\n n: ", n, "\n answer: ", answer)
+result = Solution().removeNthFromEnd(l1, n)
+print(" l1: ", l1, "\n n: ", n, "\n result: ", result)

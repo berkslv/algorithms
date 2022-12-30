@@ -13,5 +13,5 @@ class Solution:
 
 # Test
 nums = [1,2,3,1]
-answer = Solution().containsDuplicate(nums)
-print(" nums: ", nums, "\n answer: ", answer)
+result = Solution().containsDuplicate(nums)
+print(" nums: ", nums, "\n result: ", result)

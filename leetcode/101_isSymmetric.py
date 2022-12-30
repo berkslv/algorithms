@@ -20,6 +20,6 @@ class Solution:
 # Test
 root = TreeNode(1, TreeNode(2, TreeNode(3), TreeNode(4)),
                 TreeNode(2, TreeNode(4), TreeNode(3)))
-answer = Solution().isSymmetric(root)
+result = Solution().isSymmetric(root)
 root.print()
-print("answer: ", answer)
+print("result: ", result)

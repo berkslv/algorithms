@@ -22,5 +22,5 @@ class Solution:
 
 # Test
 tokens = ["2","1","+","3","*"]
-answer = Solution().evalRPN(tokens)
-print(" tokens: ", tokens, "\n answer: ", answer)
+result = Solution().evalRPN(tokens)
+print(" tokens: ", tokens, "\n result: ", result)

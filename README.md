@@ -23,6 +23,7 @@ Solutions to algorithms and data structures problems on leetcode with Python
 | 144 | [Binary Tree Preorder Traversal](./leetcode/144_preorderTraversal.py)  | Easy       |
 | 150 | [Evaluate Reverse Polish Notation](./leetcode/150_evalRPN.py)          | Medium     |
 | 155 | [Min Stack](./leetcode/155_MinStack.py)                                | Easy       |
+| 167 | [Two Sum II - Input Array Is Sorted]() | Medium |
 | 206 | [Reverse Linked List](./leetcode/206_reverseList.py)                   | Easy       |
 | 217 | [Contains Duplicate](./leetcode/216_containsDuplicate.py)              | Easy       |
 | 242 | [Valid Anagram](./leetcode/242_isAnagram.py)                           | Easy       |
@@ -37,4 +38,3 @@ Solutions to algorithms and data structures problems on leetcode with Python
 | 257 | [Binary Tree Paths]() | Easy |
 | 74 | [Search a 2D Matrix]() | Medium |
 | 143 | [Reorder List]() | Medium |
-| 167 | [Two Sum II]() | Medium |
