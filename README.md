@@ -8,6 +8,7 @@ Solutions to algorithms and data structures problems on leetcode with Python
 | 002 | [Add Two Numbers](./leetcode/002_addTwoNumbers.py)                     | Medium     |
 | 007 | [Reverse Integer](./leetcode/007_reverse.py)                           | Medium     |
 | 009 | [Palindrome Number](./leetcode/009_isPalindrome.py)                    | Easy       |
+| 011 | [Container With Most Water](./leetcode/011_maxArea.py)                 | Medium     |
 | 013 | [Roman to Integer](./leetcode/013_romanToInt.py)                       | Easy       |
 | 019 | [Remove Nth Node From End of List](./leetcode/019_removeNthFromEnd.py) | Medium     |
 | 020 | [Valid Parentheses](./leetcode/020_isValid.py)                         | Easy       |
@@ -31,10 +32,3 @@ Solutions to algorithms and data structures problems on leetcode with Python
 | 347 | [Top K Frequent Elements](./leetcode/347_topKFrequent.py)              | Medium     |
 | 704 | [Binary Search](./leetcode/704_search.py)                              | Easy       |
 | 739 | [Daily Temperatures](./leetcode/739_dailyTemperatures.py)              | Medium     |
-
-| 104 | [Maximum Depth of Binary Tree]() | Easy |
-| 121 | [Best Time to Buy and Sell Stock]() | Easy |
-| 226 | [Invert Binary Tree]() | Easy |
-| 257 | [Binary Tree Paths]() | Easy |
-| 74 | [Search a 2D Matrix]() | Medium |
-| 143 | [Reorder List]() | Medium |
