@@ -19,11 +19,12 @@ Solutions to algorithms and data structures problems on leetcode with Python
 | 100 | [Same Tree](./leetcode/100_isSameTree.py)                              | Easy       |
 | 101 | [Symmetric Tree](./leetcode/101_isSymmetric.py)                        | Easy       |
 | 102 | [Binary Tree Level Order Traversal](./leetcode/102_levelOrder.py)      | Medium     |
+| 112 | [Path Sum](./leetcode/112_hasPathSum.py)                               | Easy       |
 | 125 | [Valid Palindrome](./leetcode/125_isPalindrome.py)                     | Easy       |
 | 144 | [Binary Tree Preorder Traversal](./leetcode/144_preorderTraversal.py)  | Easy       |
 | 150 | [Evaluate Reverse Polish Notation](./leetcode/150_evalRPN.py)          | Medium     |
 | 155 | [Min Stack](./leetcode/155_MinStack.py)                                | Easy       |
-| 167 | [Two Sum II - Input Array Is Sorted]() | Medium |
+| 167 | [Two Sum II - Input Array Is Sorted](./leetcode/167_twoSum.py)         | Medium     |
 | 206 | [Reverse Linked List](./leetcode/206_reverseList.py)                   | Easy       |
 | 217 | [Contains Duplicate](./leetcode/216_containsDuplicate.py)              | Easy       |
 | 242 | [Valid Anagram](./leetcode/242_isAnagram.py)                           | Easy       |
@@ -32,7 +33,6 @@ Solutions to algorithms and data structures problems on leetcode with Python
 | 739 | [Daily Temperatures](./leetcode/739_dailyTemperatures.py)              | Medium     |
 
 | 104 | [Maximum Depth of Binary Tree]() | Easy |
-| 112 | [Path Sum]() | Easy |
 | 121 | [Best Time to Buy and Sell Stock]() | Easy |
 | 226 | [Invert Binary Tree]() | Easy |
 | 257 | [Binary Tree Paths]() | Easy |
