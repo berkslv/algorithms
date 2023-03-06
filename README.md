@@ -38,6 +38,7 @@ Solutions to algorithms and data structures problems on leetcode and hackerrank 
 
 ### Hackerrank
 
-| Name                                            | Diff | Tag    |
-| ----------------------------------------------- | ---- | ------ |
-| [Diagonal difference](./leetcode/001_twoSum.py) | Easy | Warmup |
+| Name                                                                 | Diff | Tag            |
+| -------------------------------------------------------------------- | ---- | -------------- |
+| [Diagonal difference](./hackerrank/algorithms/diagonalDifference.py) | Easy | Warmup         |
+| [Apple and Orange](./hackerrank/algorithms/appleAndOrange.py)        | Easy | Implementation |
