@@ -1,6 +1,8 @@
 # Algorithms
 
-Solutions to algorithms and data structures problems on leetcode with Python
+Solutions to algorithms and data structures problems on leetcode and hackerrank with Python
+
+### Leetcode
 
 | Id  | Name                                                                   | Diff   | Tag            |
 | --- | ---------------------------------------------------------------------- | ------ | -------------- |
@@ -33,3 +35,9 @@ Solutions to algorithms and data structures problems on leetcode with Python
 | 347 | [Top K Frequent Elements](./leetcode/347_topKFrequent.py)              | Medium | Hash table     |
 | 704 | [Binary Search](./leetcode/704_search.py)                              | Easy   | Binary search  |
 | 739 | [Daily Temperatures](./leetcode/739_dailyTemperatures.py)              | Medium | Stack          |
+
+### Hackerrank
+
+| Name                                            | Diff | Tag    |
+| ----------------------------------------------- | ---- | ------ |
+| [Diagonal difference](./leetcode/001_twoSum.py) | Easy | Warmup |
