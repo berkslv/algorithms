@@ -1,3 +1,5 @@
+# https://www.hackerrank.com/challenges/mini-max-sum/
+
 def miniMaxSum(arr):
     arr.sort()
     less = sum(arr, -arr[-1])
