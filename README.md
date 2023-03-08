@@ -42,3 +42,4 @@ Solutions to algorithms and data structures problems on leetcode and hackerrank 
 | -------------------------------------------------------------------- | ---- | -------------- |
 | [Diagonal difference](./hackerrank/algorithms/diagonalDifference.py) | Easy | Warmup         |
 | [Apple and Orange](./hackerrank/algorithms/appleAndOrange.py)        | Easy | Implementation |
+| [Mini-Max Sum](./hackerrank/algorithms/miniMaxSum.py)                | Easy | Warmup         |
