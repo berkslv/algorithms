@@ -44,3 +44,4 @@ Solutions to algorithms and data structures problems on leetcode and hackerrank 
 | [Apple and Orange](./hackerrank/algorithms/appleAndOrange.py)        | Easy | Implementation |
 | [Mini-Max Sum](./hackerrank/algorithms/miniMaxSum.py)                | Easy | Warmup         |
 | [A Very Big Sum](./hackerrank/algorithms/aVeryBigSum.py)             | Easy | Warmup         |
+| [Plus Minus](./hackerrank/algorithms/plusMinus.py)                   | Easy | Warmup         |
