@@ -1,6 +1,8 @@
 #!/bin/bash
 
 message=$1
+CYAN='\033[0;36m'
+NC='\033[0m'
 
 
 cd script
@@ -11,4 +13,4 @@ git add .
 git commit -m "$message"
 git push origin
 
-echo "[INFO] Pushed to github successfully"
+echo "${CYAN}love${NC} Pushed to github successfully"
