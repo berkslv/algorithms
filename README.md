@@ -1,6 +1,12 @@
+<style>
+    table {
+        width: 100%;
+    }
+</style>
+
 # Algorithms
 
-Solutions to Hackerrank and Lettcode problems. Currently there is **48** problems.
+Solutions to Hackerrank and Leetcode problems. Currently there is **48** problems.
 
 | Id | Question | Source |
 | --- | --- | --- |
