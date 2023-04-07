@@ -1,3 +1,5 @@
+// https://www.hackerrank.com/challenges/divisible-sum-pairs/problem
+
 class Result {
 
     public static int divisibleSumPairs(int n, int k, List<Integer> ar) {

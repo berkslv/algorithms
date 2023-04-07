@@ -1,4 +1,5 @@
 // https://www.hackerrank.com/challenges/lonely-integer/problem
+
 import java.util.HashMap;
 import java.util.List;
 

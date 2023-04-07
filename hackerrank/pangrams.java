@@ -1,5 +1,3 @@
-import java.util.HashSet;
-
 // https://www.hackerrank.com/challenges/pangrams/problem
 
 class Result {
