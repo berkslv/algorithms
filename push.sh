@@ -13,4 +13,5 @@ git add .
 git commit -m "$message"
 git push origin
 
+echo ""
 echo "${CYAN}[INFO]${NC} Pushed to github successfully"
