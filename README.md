@@ -1,15 +1,9 @@
-<style>
-    table {
-        width: 100%;
-    }
-</style>
-
 # Algorithms
 
 Solutions to Hackerrank and Leetcode problems. Currently there is **48** problems.
 
-| Id | Question | Source |
-| --- | --- | --- |
+| Id  | Question                                                     | Source     |
+| --- | ------------------------------------------------------------ | ---------- |
 | 1 | [birthday](./hackerrank/birthday.java) | hackerrank |
 | 2 | [birthdayCakeCandles](./hackerrank/birthdayCakeCandles.java) | hackerrank |
 | 3 | [countingSort](./hackerrank/countingSort.java) | hackerrank |
