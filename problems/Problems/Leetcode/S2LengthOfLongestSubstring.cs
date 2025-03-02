@@ -1,5 +1,8 @@
 namespace Problems.Leetcode;
 
+/// <summary>
+/// https://leetcode.com/problems/longest-substring-without-repeating-characters/submissions/1560213657
+/// </summary>
 public class S2LengthOfLongestSubstring
 {
     public int LengthOfLongestSubstring(string s)
