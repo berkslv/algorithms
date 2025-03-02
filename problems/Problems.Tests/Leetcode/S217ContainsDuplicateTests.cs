@@ -1,3 +1,5 @@
+using Problems.Leetcode;
+
 namespace Problems.Tests;
 
 public class S217ContainsDuplicateTests

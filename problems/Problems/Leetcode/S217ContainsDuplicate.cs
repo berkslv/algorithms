@@ -1,7 +1,7 @@
-namespace Problems;
+namespace Problems.Leetcode;
 
 /// <summary>
-/// https://leetcode.com/problems/contains-duplicate/description/
+/// https://leetcode.com/problems/contains-duplicate/
 /// </summary>
 public class S217ContainsDuplicate
 {
