@@ -2,15 +2,15 @@ using Problems.Leetcode;
 
 namespace Problems.Tests;
 
-public class S206ReverseLinkedListTests
+public class S206ReverseListTests
 {
-    private readonly S206ReverseLinkedList _solution = new S206ReverseLinkedList();
+    private readonly S206ReverseList _solution = new S206ReverseList();
 
     [Fact]
     public void ReverseList_EmptyList_ReturnsEmptyList()
     {
         // Arrange
-        S206ReverseLinkedList.ListNode head = null;
+        S206ReverseList.ListNode head = null;
 
         // Act
         var result = _solution.ReverseList(head);
@@ -23,7 +23,7 @@ public class S206ReverseLinkedListTests
     public void ReverseList_SingleNode_ReturnsSameList()
     {
         // Arrange
-        var head = new S206ReverseLinkedList.ListNode(1); // List: [1]
+        var head = new S206ReverseList.ListNode(1); // List: [1]
 
         // Act
         var result = _solution.ReverseList(head);
@@ -38,8 +38,8 @@ public class S206ReverseLinkedListTests
     public void ReverseList_TwoNodes_ReturnsReversedList()
     {
         // Arrange
-        var head = new S206ReverseLinkedList.ListNode(1); // List: [1, 2]
-        head.next = new S206ReverseLinkedList.ListNode(2);
+        var head = new S206ReverseList.ListNode(1); // List: [1, 2]
+        head.next = new S206ReverseList.ListNode(2);
 
         // Act
         var result = _solution.ReverseList(head);
@@ -55,11 +55,11 @@ public class S206ReverseLinkedListTests
     public void ReverseList_MultipleNodes_ReturnsReversedList()
     {
         // Arrange
-        var head = new S206ReverseLinkedList.ListNode(1); // List: [1, 2, 3, 4, 5]
-        head.next = new S206ReverseLinkedList.ListNode(2);
-        head.next.next = new S206ReverseLinkedList.ListNode(3);
-        head.next.next.next = new S206ReverseLinkedList.ListNode(4);
-        head.next.next.next.next = new S206ReverseLinkedList.ListNode(5);
+        var head = new S206ReverseList.ListNode(1); // List: [1, 2, 3, 4, 5]
+        head.next = new S206ReverseList.ListNode(2);
+        head.next.next = new S206ReverseList.ListNode(3);
+        head.next.next.next = new S206ReverseList.ListNode(4);
+        head.next.next.next.next = new S206ReverseList.ListNode(5);
 
         // Act
         var result = _solution.ReverseList(head);
@@ -78,9 +78,9 @@ public class S206ReverseLinkedListTests
     public void ReverseList_ThreeNodes_ReturnsReversedList()
     {
         // Arrange
-        var head = new S206ReverseLinkedList.ListNode(1); // List: [1, 2, 3]
-        head.next = new S206ReverseLinkedList.ListNode(2);
-        head.next.next = new S206ReverseLinkedList.ListNode(3);
+        var head = new S206ReverseList.ListNode(1); // List: [1, 2, 3]
+        head.next = new S206ReverseList.ListNode(2);
+        head.next.next = new S206ReverseList.ListNode(3);
 
         // Act
         var result = _solution.ReverseList(head);
