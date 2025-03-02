@@ -1,7 +1,7 @@
 namespace Problems.Leetcode;
 
 /// <summary>
-/// https://leetcode.com/problems/reverse-linked-list/
+/// https://leetcode.com/problems/reverse-linked-list/submissions/1560186091
 /// </summary>
 public class S206ReverseLinkedList
 {
