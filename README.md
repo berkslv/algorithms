@@ -1,11 +1,11 @@
-[1;36m.[0m
-|-- [1;36mlectures[0m
-|   `-- [1;36mLectures[0m
+.
+|-- lectures
+|   `-- Lectures
 |       |-- Class1.cs
 |       `-- Lectures.csproj
-`-- [1;36mproblems[0m
-    `-- [1;36mProblems[0m
-        |-- [1;36mLeetcode[0m
+`-- problems
+    `-- Problems
+        |-- Leetcode
         |   |-- S1TwoSum.cs
         |   |-- S217ContainsDuplicate.cs
         |   |-- S206ReverseList.cs
