@@ -1,6 +1,6 @@
 #!/bin/sh
 
-echo '#algorithms' > README.md;
+echo '# algorithms' > README.md;
 echo '' >> README.md;
 echo 'Solutions to algorithm problems and implementation of data structures in C#' >> README.md;
 echo '' >> README.md;
