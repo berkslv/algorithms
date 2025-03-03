@@ -1,9 +1,9 @@
-﻿namespace Problems;
+﻿namespace Problems.Leetcode;
 
 /// <summary>
-/// https://neetcode.io/problems/is-palindrome
+/// https://leetcode.com/problems/valid-palindrome/submissions/1553761590
 /// </summary>
-public class S150ValidPalindrome
+public class S125ValidPalindrome
 {
     public bool IsPalindrome(string s)
     {

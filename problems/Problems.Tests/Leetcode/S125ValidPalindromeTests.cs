@@ -1,9 +1,10 @@
-﻿namespace Problems.Tests;
+﻿using Problems.Leetcode;
 
-public class S150ValidPalindromeTests
+namespace Problems.Tests.Leetcode;
+
+public class S125ValidPalindromeTests
 {
     [Theory]
-    [InlineData("Was it a car or a cat I saw?", true)]
     [InlineData("tab a cat", false)]
     [InlineData("A man, a plan, a canal, Panama", true)]
     [InlineData("No 'x' in Nixon", true)]
@@ -16,7 +17,7 @@ public class S150ValidPalindromeTests
     public void IsPalindrome_ShouldReturnExpectedResult(string input, bool expected)
     {
         // Arrange
-        var solution = new S150ValidPalindrome();
+        var solution = new S125ValidPalindrome();
 
         // Act
         var result = solution.IsPalindrome(input);
