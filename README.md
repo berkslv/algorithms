@@ -1,3 +1,8 @@
+#algorithms
+
+Solutions to algorithm problems and implementation of data structures in C#
+
+```
 .
 ├── lectures
 │   └── Lectures
@@ -12,3 +17,4 @@
         │   ├── S2LengthOfLongestSubstring.cs
         │   └── S739DailyTemperatures.cs
         └── Problems.csproj
+```
