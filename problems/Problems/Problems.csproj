@@ -1,9 +1,13 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>net8.0</TargetFramework>
+    <TargetFramework>net9.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
+
+  <Target Name="register git hooks" BeforeTargets="Restore;CollectPackageReferences" Condition="'$(ASPNETCORE_ENVIRONMENT)' != 'Production'">
+    <Exec Command="git config core.hooksPath ./.git-hooks" StandardOutputImportance="Low" StandardErrorImportance="High" />
+  </Target>
 
 </Project>

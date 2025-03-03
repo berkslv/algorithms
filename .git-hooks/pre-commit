@@ -1,0 +1,3 @@
+#!/bin/sh
+
+cd .. ; tree . -v -L 4 -I '*bin' -I '*obj' -I '*.Tests' -I '*.sln*' -I 'README.md' --sort 'ctime' -o README.md --charset utf-8 --noreport
