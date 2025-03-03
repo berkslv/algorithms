@@ -1,4 +1,6 @@
-namespace Problems.Tests;
+using Problems.Leetcode;
+
+namespace Problems.Tests.Leetcode;
 
 public class S217ContainsDuplicateTests
 {

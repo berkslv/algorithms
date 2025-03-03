@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <Target Name="register git hooks" BeforeTargets="Restore;CollectPackageReferences" Condition="'$(ASPNETCORE_ENVIRONMENT)' != 'Production'">
+    <Exec Command="git config core.hooksPath ./.git-hooks" StandardOutputImportance="Low" StandardErrorImportance="High" />
+  </Target>
+
 </Project>

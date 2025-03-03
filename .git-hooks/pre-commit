@@ -1,0 +1,10 @@
+#!/bin/sh
+
+echo '# algorithms' > README.md;
+echo '' >> README.md;
+echo 'Solutions to algorithm problems and implementation of data structures in C#' >> README.md;
+echo '' >> README.md;
+echo '```' >> README.md;
+tree . -v -L 4 -I '*bin' -I '*obj' -I '*.Tests' -I '*.sln*' -I 'README.md' --sort 'ctime' --charset UTF-8 --noreport >> README.md
+echo '```' >> README.md;
+git add .
