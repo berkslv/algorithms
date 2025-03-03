@@ -1,6 +1,6 @@
 using Problems.Leetcode;
 
-namespace Problems.Tests;
+namespace Problems.Tests.Leetcode;
 
 public class S2LengthOfLongestSubstringTests
 {
