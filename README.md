@@ -19,5 +19,6 @@ Solutions to algorithm problems and implementation of data structures in C#
             ├── S739DailyTemperatures.cs
             ├── S125ValidPalindrome.cs
             ├── S61RotateRight.cs
-            └── S83RemoveDuplicates.cs
+            ├── S83RemoveDuplicates.cs
+            └── S203RemoveLinkedListElements.cs
 ```
